@@ -1,5 +1,5 @@
 ## Hola, Soy Armando Galeana 👋
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Armando Galeana Banner](file:///C:/Users/PC/Downloads/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 <!--
 **ArmandoGaleana/ArmandoGaleana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
