@@ -1,4 +1,4 @@
-![MasterHead](https://www.clustertech.com/sites/default/files/Product/A.I.%20%26%20Analytics/Machine%20Learning/49%29-Machine-Learning-web-banner2017-3.jpg)
+![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
 <h1 align="center">Hi 👋, I'm Armando Galeana</h1>
 <h3 align="center">Junior Data Scientist</h3>
